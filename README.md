@@ -12,6 +12,9 @@
 ![화면 캡처 2023-03-13 122948](https://user-images.githubusercontent.com/127116197/224601853-8bef7754-0216-4aa7-9246-fc999678ebe1.png)
 
 
-# 배열 최대값 출력
+# 배열 최대값 출력 같을때
 
+![화면 캡처 2023-03-13 124007](https://user-images.githubusercontent.com/127116197/224603112-6022646e-6e57-4a33-a9b6-3433b03ad5bf.png)
+
+# 배열 최대값 출력 다를때
 ![화면 캡처 2023-03-13 122631](https://user-images.githubusercontent.com/127116197/224601472-d9c748fc-4f97-420c-af8b-b58d182a6abb.png)
